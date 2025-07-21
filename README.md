@@ -19,7 +19,7 @@ This project focuses on exploratory data analysis (EDA) and predictive modelling
 
 ## What I've Learned
 
-- How to handle raw data with outliers, duplicates, and missing values
-- How to handle and familiarize with large data with multiple problems such as skewed numericals, high-cardinality etc.
-- How to structure machine learning projects with scikit-learn
+- Handle raw data with outliers, duplicates, and missing values
+- Handle and familiarize with large data with multiple problems such as skewed numericals, high-cardinality etc.
+- Structuring machine learning processes with scikit-learn pipelines
 - Feature Engineering processes
